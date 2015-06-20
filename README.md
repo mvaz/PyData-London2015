@@ -15,8 +15,12 @@ I've create a conda environment. If you go to the repository's root directory.
     conda env create
     source activate pyldn
     pip install -r requirements.txt
+    
     #if you want to use PostgreSQL
     conda install -c https://conda.binstar.org/anaconda psycopg2
+
+    #For the Spark stuff you need to install it. I am on a Mac, using Homebrew and install Spark 1.4.0
+    brew install apache-spark
 
 
 ## References
