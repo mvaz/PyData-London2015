@@ -1,6 +1,15 @@
 # PyData-London2015
 
 
+
+Repo for the talk:
+[Financial Risk Management: Analytics and Aggregation with the PyData stack](http://london.pydata.org/schedule/presentation/13/)
+
+
+
+
+## Setup environment
+
     conda env create
     source activate pyldn
     pip install -r requirements.txt
