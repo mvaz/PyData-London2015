@@ -29,6 +29,8 @@ I've create a conda environment. If you go to the repository's root directory.
 
   2. for Apache Spark
 
+    [Estimating Financial Risk with Spark Sandy Ryza (Cloudera)](https://spark-summit.org/east-2015/talk/estimating-financial-risk-with-spark)
+
     [Embracing Spark as the Scalable Data Analytics Platform - Matthew Glickman - Goldman Sachs - Video](https://www.youtube.com/watch?v=9yiwhfmEfi0)
 
     [Fast Data Analytics with Spark and Python](http://www.slideshare.net/BenjaminBengfort/fast-data-analytics-with-spark-and-python)
