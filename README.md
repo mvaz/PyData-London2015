@@ -10,9 +10,13 @@ Repo for the talk:
 
 ## Setup environment
 
+I've create a conda environment. If you go to the repository's root directory.
+
     conda env create
     source activate pyldn
     pip install -r requirements.txt
+    #if you want to use PostgreSQL
+    conda install -c https://conda.binstar.org/anaconda psycopg2
 
 
 ## References
