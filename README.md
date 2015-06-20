@@ -23,6 +23,13 @@ I've create a conda environment. If you go to the repository's root directory.
     brew install apache-spark
 
 
+## Notebooks
+
+
+    [Backtesting with Bokeh](https://github.com/mvaz/PyData-London2015/blob/master/notebooks/Backtesting%20with%20Bokeh.ipynb)
+    [Spark Scenario Aggregation](https://github.com/mvaz/PyData-London2015/blob/master/notebooks/SparkScenarioAggregation.ipynb)
+    [Value at Risk notebook](http://nbviewer.ipython.org/github/mvaz/financial-notebooks/blob/master/Value%20at%20Risk.ipynb)
+
 ## References
 
   1. for VaR Filtered Historical Simulation
