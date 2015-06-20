@@ -14,3 +14,4 @@ dependencies:
   - matplotlib=1.4.3
   - seaborn=0.5.1
   - cytoolz=0.7.3
+  - #conda install -c https://conda.binstar.org/anaconda psycopg2
